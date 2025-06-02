@@ -76,7 +76,7 @@ using calculator.Models;
 #line default
 #line hidden
 #nullable disable
-            WriteLiteral("\r\n<style>\r\n    .text-center{\r\n        background-color:aqua;\r\n        border:2px solid black;\r\n    }\r\n</style>\r\n");
+            WriteLiteral("\r\n<style>\r\n    .text-center{\r\n        background-color:green;\r\n        border:2px solid black;\r\n    }\r\n</style>\r\n");
             __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a562d863d103df887592c8b0cf97876ee8bd156e7195", async() => {
                 WriteLiteral("\r\n    <div class=\"text-center\">\r\n        <h1 class=\"display-4\">Calculator</h1>\r\n        <p><label>First Value</label></p>\r\n        <p>");
                 __tagHelperExecutionContext = __tagHelperScopeManager.Begin("input", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.SelfClosing, "a562d863d103df887592c8b0cf97876ee8bd156e7595", async() => {
